@@ -25,6 +25,7 @@ Execute the programs and publish them.
 
 ## CODE
 
+```
 map.html
 <html>
 <head>
@@ -159,6 +160,7 @@ belts and straps.
 </body>
 </html>
 
+```
 
 ## OUTPUT
 
