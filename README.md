@@ -58,7 +58,7 @@ home.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="lightblue">
+<body bgcolor="lightgreen">
 <h1 align="center">
 <font color="red"><b>Arni-The Silk City</b></font>
 </h1>
@@ -81,7 +81,7 @@ temple.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="lightblue">
+<body bgcolor="cyan">
 <h1 align="center">
 <font color="red"><b>Puthirakameshwarar Temple</b></font>
 </h1>
@@ -123,7 +123,7 @@ IFB.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="lightblue">
+<body bgcolor="grey">
 <h1 align="center">
 <font color="red"><b>IFB Point</b></font>
 </h1>
@@ -146,7 +146,7 @@ titan.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="lightblue">
+<body bgcolor="pink">
 <h1 align="center">
 <font color="red"><b>Titan World</b></font>
 </h1>
@@ -164,12 +164,13 @@ belts and straps.
 
 ## OUTPUT
 
-![Alt text](zafr/myapp/static/map.png)
-![Alt text](2.png)
-![Alt text](3.png)
-![Alt text](4.png)
-![Alt text](5.png)
-![Alt text](6.png)
+
+![Alt text](1.png)
+![Alt text](11.png)
+![Alt text](12.png)
+![Alt text](13.png)
+![Alt text](14.png)
+![Alt text](15.png)
 
 
 ## RESULT
